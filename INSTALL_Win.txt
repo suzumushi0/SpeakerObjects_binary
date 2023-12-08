@@ -1,0 +1,31 @@
+Installation
+
+(1) Unzip the file. Then you will see the following two FOLDERS.
+  SpeakerObjects.vst	contains SpeakerObjects plug-in.
+  suzumushi		contains a few VST preset files.
+
+(2) Copy SpeakerObjects.vst3 to C:\Program Files\Common Files\VST3
+
+Note: "SpeakerObjects.vst3" is a FOLDER in the unzipped file.
+It is NOT "SpeakerObjects.vst3\Contents\x86_64-win\SpeakerObjects.vst3".
+
+(3) [Option] Copy suzumushi to C:\Users\your_account_name\Documents\VST3 Presets
+
+Enjoy.
+
+
+インストール方法
+
+(1) ファイルを解凍すると，以下の 2 つの「フォルダ」がある．
+  SpeakerObjects.vst	SpeakerObjects プラグイン
+  suzumushi		VST preset ファイル
+
+(2) SpeakerObjects.vst3 を C:\Program Files\Common Files\VST3 にコピー
+
+Note: "SpeakerObjects.vst3" は解凍したファイルにある「フォルダ」です．
+"SpeakerObjects.vst3\Contents\x86_64-win\SpeakerObjects.vst3" ではありません．
+
+(3) [オプション] suzumushi を C:\Users\your_account_name\Documents\VST3 Presets にコピー
+
+Enjoy.
+
