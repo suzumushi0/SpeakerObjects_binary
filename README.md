@@ -2,17 +2,17 @@
 
 ![SP 1-2](https://github.com/suzumushi0/SpeakerObjects_binary/assets/67182469/d7886f9a-8325-4e2a-ba3b-4f0fcaacb950)
 
-SpakerObjects, a customized version of SoundObject, specializes in binaural reproduction of stereo speaker-based sound fields.
+SpeakerObjects, a customized version of SoundObject, specializes in binaural reproduction of stereo speaker-based sound fields.
 
-Headphone monitoring of stereo sound that is assumed to be play-backed from speakers degrades sound localization. Similarly, stereo speaker sound mixed by headphone monitoring leads to sound imbalance. In these cases, it is necessary to compensate for the acoustic characteristics of the listening room during monitoring or mixing, which is supported by SpakerObjects.
+Headphone monitoring of stereo sound that is assumed to be play-backed from speakers degrades sound localization. Similarly, stereo speaker sound mixed by headphone monitoring leads to sound imbalance. In these cases, it is necessary to compensate for the acoustic characteristics of the listening room during monitoring or mixing, which is supported by SpeakerObjects.
 
 SpeakerObjects is provided as a VST 3 plug-in for digital audio workstations (DAW) and supports 44.1KHz, 48KHz, and 96KHz sampling rates. OS environment is 64bit Windows 11. Refer to the following document for details.
 
 https://suzumushi0.hatenablog.com/entry/SOv1/SP_EN
 
-SpakerObjects は SoundObject のカスタマイズ版であり，ステレオスピーカによる音場のバイノーラル再現に特化している．
+SpeakerObjects は SoundObject のカスタマイズ版であり，ステレオスピーカによる音場のバイノーラル再現に特化している．
 
-ステレオススピーカーからの再生を想定したサウンドをヘッドホンでモニターすると，定位感が損なわれる．同様に，ヘッドホンモニタリングによってミキシングされたサウンドを，ステレオススピーカーから再生すると，サウンドのバランスが崩れる．これらの場合は，モニタリングやミキシングの際にリスニングルームの音響特性の補正が必要であり，SpakerObjects はこれをサポートしている．
+ステレオススピーカーからの再生を想定したサウンドをヘッドホンでモニターすると，定位感が損なわれる．同様に，ヘッドホンモニタリングによってミキシングされたサウンドを，ステレオススピーカーから再生すると，サウンドのバランスが崩れる．これらの場合は，モニタリングやミキシングの際にリスニングルームの音響特性の補正が必要であり，SpeakerObjects はこれをサポートしている．
 
 SpeakerObjects はディジタルオーディオワークステーション (Digital Audio Workstations: DAW) の VST 3 plug-in として提供され，44.1KHz, 48KHz, 96KHz のサンプリングレートをサポートしている．また，OS 環境は 64 bit の Windows 11 となる．詳細は以下のドキュメントを参照．
 
